@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{C1941F85-CF3C-4DAC-BDF5-1F8EE381F262}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="World_Travel_Blog/Models/Place.cs">
+    <Files>
+      <File FileName="World_Travel_Blog/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="World_Travel_Blog/Views/Place/Index.cshtml" Line="1" Column="1" />
+      <File FileName="World_Travel_Blog/Startup.cs" Line="66" Column="1" />
+      <File FileName="World_Travel_Blog/Models/WorldTravelBlogContext.cs" Line="1" Column="1" />
+      <File FileName="World_Travel_Blog/Views/Place/Locations.cshtml" Line="1" Column="1" />
+      <File FileName="World_Travel_Blog/Views/Place/Experiences.cshtml" Line="1" Column="274" />
+      <File FileName="World_Travel_Blog/Views/Place/People.cshtml" Line="1" Column="1" />
+      <File FileName="World_Travel_Blog/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="World_Travel_Blog/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="World_Travel_Blog/Controllers/PlaceController.cs" Line="1" Column="1" />
+      <File FileName="World_Travel_Blog/Models/Place.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.World__Travel__Blog PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

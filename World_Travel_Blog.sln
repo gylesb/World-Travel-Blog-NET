@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "World_Travel_Blog", "World_Travel_Blog\World_Travel_Blog.csproj", "{C1941F85-CF3C-4DAC-BDF5-1F8EE381F262}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1941F85-CF3C-4DAC-BDF5-1F8EE381F262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1941F85-CF3C-4DAC-BDF5-1F8EE381F262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1941F85-CF3C-4DAC-BDF5-1F8EE381F262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1941F85-CF3C-4DAC-BDF5-1F8EE381F262}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
